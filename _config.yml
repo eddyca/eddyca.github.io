@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Blog
 locale:           en_US
-url:              
+url:              ""
 
 
 # Jekyll configuration
@@ -26,25 +26,25 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Erica Lynn Rodriguez
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  bio: "Designer with a new found passion for front-end web development"
+  email: eddyca.rodriguez@gmail.com
+  disqus-shortname: ericalynnrodriguez
+  twitter: eddyca_erica
+  facebook: eddycaaa
   google:
     plus: #username
-    analytics: 
+    analytics: UA-61410513-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: eddyca
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: ericalynnrodriguez
   xing: #username
-  instagram: #username
+  instagram: eddyca
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: photos/duchess_of_candied_apples/sets/
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
