@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2015-04-15T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +10,28 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I’m a Graphic Designer with an insatiable curiosity and a hunger for learning. I recently completed a front-end development course at General Assembly. Since then I have continued to immerse myself in code. I'm hooked! I daydream about stuffing my Subaru Outback full of all of my belongings and moving to the Pacific Northwest. I love to travel, trying new recipes, and getting my hands dirty gardening.
 
-## Minimal Mistakes is all about:
+### Current obessions:
+* Sublime Text
+* Codepen
+* Sass
+* Jekyll
+* Github
+* Codekit
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+### Current heros:
+* [Travis Neilson](http://travisneilson.com/)
+* [Sarah Holden](http://saraheholden.com/)
+* [Rebecca Miller-Webster](http://www.rebeccamiller-webster.com/)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+### Other Activities & Interests:
+* cooking
+* frequent potlucks with my neighbors
+* playing with my dog
+* travel
+* yoga
+* nutrition 
+* cartography
+* infographics
+* typography
