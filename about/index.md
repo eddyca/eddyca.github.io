@@ -24,6 +24,7 @@ I’m a Graphic Designer with an insatiable curiosity and a hunger for learning.
 * [Travis Neilson](http://travisneilson.com/)
 * [Sarah Holden](http://saraheholden.com/)
 * [Rebecca Miller-Webster](http://www.rebeccamiller-webster.com/)
+* [My Mom](https://www.stargatedesign.com/)
 
 ### Other Activities & Interests:
 * cooking
